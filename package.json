@@ -1,0 +1,27 @@
+{
+  "name": "personal-tiddlywiki",
+  "version": "1.0.0",
+  "description": "A statically generated version of my personal TiddlyWiki",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "tiddlywiki": "^5.1.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aneuhold/personal-tiddlywiki.git"
+  },
+  "keywords": [
+    "TiddlyWiki",
+    "Wiki"
+  ],
+  "author": "Anton G Neuhold Jr",
+  "license": "SEE LICENSE IN LICENSE FILE",
+  "bugs": {
+    "url": "https://github.com/aneuhold/personal-tiddlywiki/issues"
+  },
+  "homepage": "https://github.com/aneuhold/personal-tiddlywiki#readme"
+}
